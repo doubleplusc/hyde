@@ -14,8 +14,8 @@ url:              https://doubleplusc.github.io/hyde.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'doubleplusc'
+  url:            https://doubleplusc.github.com
 
 paginate:         5
 
