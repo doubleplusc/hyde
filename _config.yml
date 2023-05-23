@@ -10,8 +10,8 @@ relative_permalinks: false
 title:            Hurray
 tagline:          'Hyde theme evale'
 description:      'Peanut butter'
-url:              https://doubleplusc.github.io/hyde.github.io/
-baseurl:          /
+url:              https://doubleplusc.github.io/
+baseurl:          /hyde.github.io/
 
 author:
   name:           'doubleplusc'
